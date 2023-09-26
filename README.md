@@ -34,3 +34,4 @@ Possuo bastante familiariade com a biblioteca Pandas para a criação e manipula
 * ✅ Alura, **Python Pandas: tratando e analisando dados** *(junho de 2023)*
 * ✅ Universidade Anhanguera, **Competencias para a Vida** *(Junho de 2022)*
 * ✅ Alura, **JAVASCRIPT: TIPOS VARIÁVEIS E FUNÇÕES** *(Junho de 2022)*
+* ✅ Alura, **JAVASCRIPT: ARRAYS** *(Setembro de 2023)*

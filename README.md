@@ -10,8 +10,8 @@
 
 ## 🎓 Sobre Mim 
 ###
-Sou um Desenvolvedor e Programador com 20 anos, porém com grande experiência em análise e ciência de dados.
-Possuo bastante familiariade com a biblioteca Pandas para a criação e manipulação de Data Frames afim de trazer análises de valor.
+Sou um Desenvolvedor e Programador com 20 anos, porém com grande experiência em análise e ciência de dados. Possuo bastante familiaridade com a biblioteca Pandas para a criação e manipulação de Data Frames a fim de trazer análises de valor.
+
 
 
 ## 🚀 Minha Especialidade

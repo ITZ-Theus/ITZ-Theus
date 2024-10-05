@@ -1,6 +1,6 @@
 ## 👋 Olá sou Matheus Neri Tenho 21 Anos !
 
-💻 Estudando Ciências da Computação na Universidade Anhanguera, 4° Semestre. [Anhanguera](https://www.anhanguera.com).<br>
+💻 Estudando Ciências da Computação na Universidade Anhanguera, 6° Semestre. [Anhanguera](https://www.anhanguera.com).<br>
 🏡 Brazil, Itaquaquecetuba, SP.
 
 ## 💻 Mídias Sociais

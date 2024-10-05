@@ -49,10 +49,6 @@ Sou um Desenvolvedor e Programador com 20 anos, porém com grande experiência e
 * ✅ Celke, **PHP e Banco de Dados** *(Agosto de 2024)*
 * ✅ Celke, **MySQL** *(Agosto de 2024)*
 * ✅ Celke, **PHP Orientado a Objetos** *(Agosto de 2024)*
-* ✅ Celke, **PHP Orientado a Objetos** *(Agosto de 2024)*
-* ✅ Celke, **PHP Orientado a Objetos** *(Agosto de 2024)*
-* ✅ Celke, **PHP Orientado a Objetos** *(Agosto de 2024)*
-* ✅ Celke, **PHP Orientado a Objetos** *(Agosto de 2024)*
 * ✅ Celke, **Git e GitHub** *(Agosto de 2024)*
 
  

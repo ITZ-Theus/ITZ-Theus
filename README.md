@@ -1,4 +1,4 @@
-## 👋 Olá sou Matheus Neri Tenho 21 Anos !
+## 👋 Olá sou Matheus Neri Tenho 22 Anos !
 
 💻 Estudando Ciências da Computação na Universidade Anhanguera, 6° Semestre. [Anhanguera](https://www.anhanguera.com).<br>
 🏡 Brazil, Itaquaquecetuba, SP.
@@ -10,7 +10,7 @@
 
 ## 🎓 Sobre Mim 
 ###
-Sou um Desenvolvedor e Programador com 20 anos, porém com grande experiência em análise e ciência de dados. Possuo bastante familiaridade com a biblioteca Pandas para a criação e manipulação de Data Frames a fim de trazer análises de valor.
+Sou um Desenvolvedor e Programador com 22 anos, porém com grande experiência em análise e ciência de dados. Possuo bastante familiaridade com a biblioteca Pandas para a criação e manipulação de Data Frames a fim de trazer análises de valor.
 
 
 
